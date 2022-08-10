@@ -1,6 +1,6 @@
 ### Hi there, I'm Svetlin! 👋
 **About Me:**	
-I’m currently working working as a Frontend Developer and freelance a couple projects for clients.
+I’m currently working as a Frontend Developer and freelance a couple projects for clients.
 
 <h3>Things I code with</h3>
 <p>
